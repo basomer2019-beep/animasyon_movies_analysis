@@ -114,3 +114,6 @@ Bu proje, veri temizleme, analiz ve dashboard oluşturma süreçlerini kapsayan 
 
 This project demonstrates an end-to-end data analysis workflow, from data cleaning to insights and dashboard creation.
 
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
